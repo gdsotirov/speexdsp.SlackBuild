@@ -1,0 +1,11 @@
+speexdsp: Speex DSP (A Free Codec For Free Speech DSP)
+speexdsp:
+speexdsp: Speex is an Open Source/Free Software patent-free audio compression
+speexdsp: format designed for speech. The Speex Project aims to lower the
+speexdsp: barrier of entry for voice applications by providing a free
+speexdsp: alternative to expensive proprietary speech codecs. Moreover, Speex
+speexdsp: is well-adapted to Internet applications and provides useful features
+speexdsp: that are not present in most other codecs. Finally, Speex is part of
+speexdsp: the GNU Project and is available under the revised BSD license.
+speexdsp:
+speexdsp: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
